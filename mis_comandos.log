@@ -1,0 +1,5 @@
+PARA AGREGAR ARCHIVOS USAR >>
+[18/06/2026] - Mi primer escaneo de red con nmap: nmap localhost
+[18/06/2026] - Apertura de puertos con NetCat: nc -lvp [indicar puerto]
+[22/06/2026] - Informarcion de dispositivo en base a archivos encontrados: /proc > cat cpuinfo
+[06/07/2026] - Obtener algo de GitHub: git clone LINK
